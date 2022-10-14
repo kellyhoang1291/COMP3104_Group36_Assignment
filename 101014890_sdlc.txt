@@ -1,1 +1,5 @@
-this will cotnain deails about learning
+Learning devops is important because if you look at the SDLC you will see that 
+most of the steps in the process arent actually coding, and most of them have more
+to to with design, requirements and maintainance. Learning devops gives you access to
+too tools that make maintaining code bases much easier with the automation of
+testing and other repetitive tasks.
