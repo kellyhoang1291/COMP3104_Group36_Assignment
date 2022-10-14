@@ -1,0 +1,1 @@
+COMP3104 is designed to better prepare professionals entering the IT field by providing hands-on experience through the implementation of tried, tested and true DevOps technologies.
