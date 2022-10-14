@@ -1,0 +1,5 @@
+What
+
+DEVOPS comp3104 is a course about devoper operations which is a importent topic to learn
+because it encompasses many different common tasks used by programmings to ensure
+the output of quality code.
