@@ -1,5 +1,4 @@
 # COMP3104_Group36_Assignment
-Assignment Details
 
 Group Members:
 1. Phuong Hoang
