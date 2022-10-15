@@ -1,0 +1,16 @@
+What is Devops?
+Devops as explained by AWS is the "combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity"
+This means that it enables different specialities to work together to achieve an end product more efficiently and with more organizing
+
+Benefits
+-Speed: The devops model enables developers and operations teams to work
+faster which means comply to customer's changes quicker and adapt to changing markets better
+through the use of microservices and continuous delivery
+-Reliability: Devops uses continuous integration that allows to implement application updates and 
+infrastructure changes without worrying about the quality and the delivery aspect of it
+-Security: also known as DevSecOps combines software development, IT operations and security to increase the quality of deliverables at high security 
+
+Devops lifecycle:
+it consist of the Planning Phase, building, Continuous integration and delivery,
+Monitor and alert, Operate and continuous feedback
+it is also symbolized with an infinity symbol to show how the phases relae to each other 

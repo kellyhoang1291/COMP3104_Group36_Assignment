@@ -1,0 +1,9 @@
+COMP 3104 DevOps course
+the devops class is meant to prepare individuals that would like to work in IT related jobs and teach
+about the processes and tools involved in deploying services and products.
+the goals is to facilitate the interaction between IT fields as servers, web apps and infrastructor.
+It is also equipped with organizational tools and plans meant to enhance the speed and productivity in fixing issues, adapting to changes, 
+deploying products and so on.
+
+In this course we will be learning about Amazon Web Services, Ansible, Docker and
+Travis CI.
