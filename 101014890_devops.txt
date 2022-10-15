@@ -1,0 +1,12 @@
+DEVOPS comp3104 is a course taught at georgebrown college. It encompasses many different
+devops concepts in the domain of CI/CD. It's purpose to introduce students
+to important topics in devops, such as continous intergration, continuous delivery, 
+containers and the practical application of these topics. It also requires 
+the use of git and github which gives students really important hands on
+experience with VCS. It also gives students a preview of what it's like working
+with a team and coordinating via github workflows. 
+
+
+Devops will provide students the skills and knowledge that will 
+enable them to become productive programmers, or even a first stepping stone
+for a career as a Devops engineer.
