@@ -10,4 +10,7 @@ through the use of microservices and continuous delivery
 infrastructure changes without worrying about the quality and the delivery aspect of it
 -Security: also known as DevSecOps combines software development, IT operations and security to increase the quality of deliverables at high security 
 
-
+Devops lifecycle:
+it consist of the Planning Phase, building, Continuous integration and delivery,
+Monitor and alert, Operate and continuous feedback
+it is also symbolized with an infinity symbol to show how the phases relae to each other 
