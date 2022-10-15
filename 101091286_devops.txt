@@ -8,3 +8,6 @@ faster which means comply to customer's changes quicker and adapt to changing ma
 through the use of microservices and continuous delivery
 -Reliability: Devops uses continuous integration that allows to implement application updates and 
 infrastructure changes without worrying about the quality and the delivery aspect of it
+-Security: also known as DevSecOps combines software development, IT operations and security to increase the quality of deliverables at high security 
+
+
