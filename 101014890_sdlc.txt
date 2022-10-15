@@ -17,5 +17,7 @@ pain, especially when it begins to grow and you have to manage multiple deployme
 the world.
 
 These domains on thier own would require loads of staff to deal with without devops and 
-the tools created to facilicate the automation of said tasks.
+the tools created to facilicate the automation of said tasks. That is why it's important
+to learn devops, because it might have a steep learning curve but it really will make your life
+as a dev easier if you stick with it.
 
