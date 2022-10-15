@@ -2,3 +2,8 @@ What is Devops?
 Devops as explained by AWS is the "combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity"
 This means that it enables different specialities to work together to achieve an end product more efficiently and with more organizing
 
+Benefits
+-Speed: The devops model enables developers and operations teams to work
+faster which means comply to customer's changes quicker and adapt to changing markets better
+through the use of microservices and continuous delivery
+-
