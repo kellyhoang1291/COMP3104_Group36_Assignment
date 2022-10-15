@@ -6,4 +6,5 @@ Benefits
 -Speed: The devops model enables developers and operations teams to work
 faster which means comply to customer's changes quicker and adapt to changing markets better
 through the use of microservices and continuous delivery
--
+-Reliability: Devops uses continuous integration that allows to implement application updates and 
+infrastructure changes without worrying about the quality and the delivery aspect of it
